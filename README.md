@@ -17,10 +17,10 @@ Feel free contacting me via the following links:
 
 <div align="center">
         <a href="https://www.instagram.com/SMSadegh19/">
-            <img src="./icons/instagram.png">
+            <img src="instagram.png">
         </a>
         <a href="https://t.me/SMSadegh19">
-            <img src="./icons/telegram.png">
+            <img src="telegram.png">
 </div>
 
 <p align=center>
