@@ -30,10 +30,7 @@ Feel free contacting me via the following links:
 
 <p align=center>
 <br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=SMSadegh19/SMSadegh19">
+</p>
 
 ## Support Me
 https://buymeacoffee.com/centrifugalforce
-
-
-</p>
